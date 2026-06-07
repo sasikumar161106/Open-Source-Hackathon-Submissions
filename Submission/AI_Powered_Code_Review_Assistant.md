@@ -3,16 +3,16 @@
 ## Participant Details
 
 **Full Name:**  
-[Your Full Name Here]
+Sasikumar S
 
 **GitHub Username:**  
 sasikumar161106
 
 **Team Name:**  
-[Your Team Name Here]
+Compilers
 
 **College/University:**  
-[Your College/University Here]
+Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College
 
 ---
 
